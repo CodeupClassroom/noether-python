@@ -1,2 +1,3 @@
-# noether-python
-Repository for Noether cohort python lessons and exercises
+# NOETHER
+### Repository for Noether cohort 🐍 Python lessons and exercises
+ 
